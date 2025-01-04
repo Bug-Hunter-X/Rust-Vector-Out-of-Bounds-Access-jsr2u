@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust programming: accessing elements outside the bounds of a vector.  The `bug.rs` file contains code that will panic at runtime, and `bugSolution.rs` provides a corrected version.  Understanding how to handle vector bounds is crucial for writing robust Rust code.
